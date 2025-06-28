@@ -46,7 +46,7 @@ const CatalogScreen = ({ navigation }) => {
       'Wii U': require('../assets/wiiu.png'),
       'PSP': require('../assets/psp.jpg'),
       'PS Vita': require('../assets/psvita.png'),
-      'PlayStation 2': require('../assets/ps2.png'),
+      'PlayStation 2': require('../assets/ps2.jpg'),
       'PlayStation 3': require('../assets/ps3.jpg'),
     };
     
