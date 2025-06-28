@@ -4,11 +4,11 @@
     "slug": "gamer-family",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/gf.jpg",
+    "icon": "./assets/gf.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/gf.jpg",
+      "image": "./assets/gf.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -18,13 +18,13 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/gf.jpg",
+        "foregroundImage": "./assets/gf.png",
         "backgroundColor": "#ffffff"
       },
       "package": "com.anonymous.plantilla"
     },
     "web": {
-      "favicon": "./assets/gf.jpg"
+      "favicon": "./assets/gf.png"
     },
     "extra": {
       "eas": {
