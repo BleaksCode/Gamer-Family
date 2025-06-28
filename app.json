@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Gamer Family",
-    "slug": "plantilla",
+    "slug": "gamer-family",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/gf.png",
@@ -28,8 +28,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "037388d1-5e95-443f-a542-bf0f2244c4c7"
+        "projectId": "afff6db2-64fc-4ddd-b3af-a300fbafc283"
       }
-    }
+    },
+    "owner": "bleaks"
   }
 }
