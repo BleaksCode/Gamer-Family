@@ -37,7 +37,7 @@ const HomeScreen = ({ navigation }) => {
       color: '#107c10',
     },
     {
-      id: 3,
+      id: 4,
       name: 'PlayStation3',
       image: require('../assets/ps3.jpg'),
       color: '#003087',
