@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Gamer Family",
+    "slug": "gamer-family",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/gf.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/gf.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "bundleIdentifier": "com.anonymous.plantilla",
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/gf.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.anonymous.plantilla"
+    },
+    "web": {
+      "favicon": "./assets/gf.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "afff6db2-64fc-4ddd-b3af-a300fbafc283"
+      }
+    },
+    "owner": "bleaks"
+  }
+}
